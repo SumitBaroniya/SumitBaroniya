@@ -20,4 +20,4 @@
 
 <p>&nbsp;<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=sumitbaroniya&show_icons=true&locale=en" alt="sumitbaroniya" /></p>
 
-<p><img align="left" width="39.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitbaroniya&show_icons=true&locale=en&layout=compact" alt="sumitbaroniya" /></p>
+<p><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitbaroniya&show_icons=true&locale=en&layout=compact" alt="sumitbaroniya" /></p>
