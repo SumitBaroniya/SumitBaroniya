@@ -20,11 +20,11 @@
 
 <p align="center">
     <img
-        height="180em"
+        height="200em"
         src="https://github-readme-stats.vercel.app/api?username=sumitbaroniya&show_icons=true&hide_border=true&theme=tokyonight"
     />
     <img
-        height="180em"
+        height="200em"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitbaroniya&langs_count=8&theme=tokyonight"
     />
 </p>
