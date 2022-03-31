@@ -21,7 +21,5 @@
 <p>&nbsp;<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=sumitbaroniya&show_icons=true&locale=en" alt="sumitbaroniya" /></p>
 
 <p><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitbaroniya&show_icons=true&locale=en&layout=compact" alt="sumitbaroniya" /></p>
-<br>
-<br>
-<br>
-<p><img align="left" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=sumitbaroniya&" alt="sumitbaroniya" /></p>
+
+<p><img align="center" width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=sumitbaroniya&" alt="sumitbaroniya" /></p>
