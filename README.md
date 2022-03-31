@@ -28,4 +28,5 @@
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitbaroniya&langs_count=8&theme=tokyonight"
     />
 </p>
-</p>
+
+<p><img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sumitbaroniya&theme=tokyonight&" alt="sumitbaroniya" /></p>
