@@ -21,10 +21,12 @@
 <p align="center">
     <img
         height="200em"
+         width="48%"
         src="https://github-readme-stats.vercel.app/api?username=sumitbaroniya&show_icons=true&hide_border=true&theme=tokyonight"
     />
     <img
         height="200em"
+         width="48%"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitbaroniya&langs_count=8&theme=tokyonight"
     />
     <img align="center" height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=sumitbaroniya&theme=tokyonight&" alt="sumitbaroniya" />
