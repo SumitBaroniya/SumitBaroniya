@@ -25,7 +25,7 @@
         src="https://github-readme-stats.vercel.app/api?username=sumitbaroniya&show_icons=true&hide_border=true&theme=tokyonight"
     />
     <img
-        height="210em"
+        height="200em"
          width="50%"
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitbaroniya&theme=tokyonight"
     />
