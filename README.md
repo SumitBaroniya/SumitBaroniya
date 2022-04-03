@@ -25,8 +25,8 @@
         src="https://github-readme-stats.vercel.app/api?username=sumitbaroniya&show_icons=true&hide_border=true&theme=tokyonight"
     />
     <img
-        height="200em"
-         width="48%"
+        height="210em"
+         width="50%"
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitbaroniya&theme=tokyonight"
     />
     <img align="center" height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=sumitbaroniya&theme=tokyonight&" alt="sumitbaroniya" />
