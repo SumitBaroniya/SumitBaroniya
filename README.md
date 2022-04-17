@@ -23,15 +23,15 @@
 <p align="center">
     <img
         height="230em"
-         width="48%"
+         width="50%"
         src="https://github-readme-stats.vercel.app/api?username=sumitbaroniya&show_icons=true&hide_border=true&theme=tokyonight"
     />
     <img
         height="230em"
-         width="50%"
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitbaroniya&theme=tokyonight"
+         width="45%"
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitbaroniya&layout=compact&hide_border=true&theme=tokyonight"
     />
-    <img align="center" height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=sumitbaroniya&theme=tokyonight&" alt="sumitbaroniya" />
+    <img align="center" height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=sumitbaroniya&hide_border=true&theme=tokyonight&" alt="sumitbaroniya" />
 </p>
 
 
