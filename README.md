@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://github.com/ABSphreak/ABSphreak/raw/master/gifs/Hi.gif" width="30px" style="max-width: 100%;">, I'm Sumit Baroniya</h1>
+<h1 align="center">Hi <img src="https://github.com/ABSphreak/ABSphreak/raw/master/gifs/Hi.gif" width="3px" style="max-width: 100%;">, I'm Sumit Baroniya</h1>
 <!--  👋 -->
 
 <h3 align="center">Competitive Programmer and Web developer</h3>
