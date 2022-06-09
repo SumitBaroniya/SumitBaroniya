@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Sumit Baroniya</h1>
-<h3 align="center">Competitive Programmer and Web developer</h3>
+<h3 align="center">A passionate developer from India</h3>
 
 ## 🙋‍♂️ About Me
 
