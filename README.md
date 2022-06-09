@@ -54,10 +54,6 @@
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=indresh149">
-</a>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitbaroniya&label=Profile%20views&color=0e75b6&style=flat" alt="sumitbaroniya" /> </p>
 
 <p align="center">
