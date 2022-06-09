@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[Git hub](https://.com)**
+- 👨‍💻 All of my projects are available at **[Github]([https://.com](https://www.github.com/sumitbaroniya))**
 
 - 📫 How to reach me **sumit.baroniya2002@gmail.com**
 
