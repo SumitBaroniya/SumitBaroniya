@@ -57,7 +57,8 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=indresh149">
 </a>
-<a href="https://www.github.com/sumitbaroniya?tab=followers"><img src="https://komarev.com/ghpvc/?username=sumitbaroniya&label=Profile%20views&color=0e75b6&style=flat" alt="sumitbaroniya" /></a>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitbaroniya&label=Profile%20views&color=0e75b6&style=flat" alt="sumitbaroniya" /> </p>
 
 <p align="center">
   <img width="200" height="100" src="https://math.sun.ac.za/prodinger/thanks.gif">
