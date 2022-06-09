@@ -6,6 +6,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitbaroniya&label=Profile%20views&color=0e75b6&style=flat" alt="sumitbaroniya" /> </p>
 
+## 🙋‍♂️ About Me
+
+- 🔭 I’m currently studying in **[Galgotias University](https://covid-19-tracker-e4bda.web.app/)**
+
+- 🌱 I’m currently learning **Data Structures and Algorithms.**
+
+- 👯 I’m looking to collaborate on **OpenSource Projects**
+
+- 👨‍💻 All of my projects are available at **[Git hub](https://.com)**
+
 - 📫 How to reach me **sumit.baroniya2002@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
