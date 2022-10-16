@@ -54,9 +54,9 @@
 
 ![snake gif](https://github.com/sumitbaroniya/sumitbaroniya/blob/output/github-contribution-grid-snake.gif)
 
-<h3 align="start">Hacktoberfest Badge 2022 🔥👇🏻👇🏻👇🏻👇🏻</h3>
 
-[![@sumitbaroniya's Holopin board](https://holopin.me/sumitbaroniya)](https://holopin.io/@sumitbaroniya)
+
+
 
 
 ## Connect with me:
